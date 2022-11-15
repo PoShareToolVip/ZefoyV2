@@ -5,3 +5,5 @@
  • cd ZefoyV2
 
  • pip3 install -r requirements.txt
+ 
+ • python3 ZefoyV2.py
